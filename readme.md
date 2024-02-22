@@ -41,3 +41,10 @@ hapus
 ```bash
 rm -f .git/index.lock
 ```
+
+
+upload ke github
+
+```bash
+git push
+```
