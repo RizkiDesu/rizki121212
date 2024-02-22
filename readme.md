@@ -23,3 +23,20 @@ branch -M main
 ```bash
 git push origin main --force
 ```
+
+
+setelah aman udah tersambung ke git hub tinggal update aja
+
+```bash
+git status
+```
+```bash
+git add .
+```
+
+```bash
+git commit -m "Commit ke dua"
+```
+```bash
+git push origin main --force
+```
