@@ -1,4 +1,4 @@
-
+upload ke git untuk pertama kali
 ```bash
 git init
 ```
@@ -26,7 +26,6 @@ git push origin main --force
 
 
 setelah aman udah tersambung ke git hub tinggal update aja
-
 ```bash
 git status
 ```
@@ -35,4 +34,10 @@ git commit -m 'TAMBAH INFO'
 ```
 ```bash
 git push origin main --force
+```
+
+
+hapus
+```bash
+rm -f .git/index.lock
 ```
