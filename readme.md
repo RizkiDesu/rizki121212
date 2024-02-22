@@ -31,11 +31,7 @@ setelah aman udah tersambung ke git hub tinggal update aja
 git status
 ```
 ```bash
-git add .
-```
-
-```bash
-git commit -m "Commit ke dua"
+git commit -m 'TAMBAH INFO'
 ```
 ```bash
 git push origin main --force
