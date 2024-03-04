@@ -1,4 +1,6 @@
-upload ke git untuk pertama kali
+
+
+## upload ke git untuk pertama kali
 ```bash
 git init
 ```
