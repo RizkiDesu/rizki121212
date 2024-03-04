@@ -27,7 +27,7 @@ git push origin main --force
 ```
 
 
-setelah aman udah tersambung ke git hub tinggal update aja
+## setelah aman udah tersambung ke git hub tinggal update aja
 ```bash
 git status
 ```
